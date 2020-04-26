@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/s10e17/s10e17.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<link href="./css/index.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+	
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div id="profileImage">
+	<img src="./Abhishek.png" alt="Abhishek" title="This is me" />
+</div>
 
-### Markdown
+<a href="https://www.facebook.com/s10e17" target="_blank" class="fa fa-facebook"></a>
+<a href="https://twitter.com/s10e17" target="_blank" class="fa fa-twitter"></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+                                        
+### Skills
 ```markdown
-Syntax highlighted code block
+- Java
+- Elasticsearch
+```
 
-# Header 1
-## Header 2
-### Header 3
+### Professional Experiences
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+### Education
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s10e17/s10e17.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
